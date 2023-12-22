@@ -1,11 +1,16 @@
 ---
-slug: /
 sidebar_position: 1
+slug: /
+title: Website
+description: How to download DUG Insight Software from the website
+keywords:
+  - download
+  - DUG Insight Software
 ---
 
-# Download Options
+# Download From The Website
 
-To download the **DUG Insight Software**, follow these steps:
+To download the **DUG Insight Software** from the website, follow these steps:
 
 1. Go to the [download page](https://dug.com/dug-insight/download-resources/).
 2. Select the _SELA agreement_ checkbox.
