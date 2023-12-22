@@ -15,4 +15,4 @@ To download the **DUG Insight Software**, follow these steps:
 3. Click the download button.
 4. Select the operating system from the dropdown provided, and your download should begin.
 
-![How to download DUG Insight Software](/img/image_1.png)
+[![Download option](/img/image_1.png)](/img/image_1.png)
