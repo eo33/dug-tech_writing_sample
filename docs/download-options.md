@@ -15,4 +15,4 @@ You can download the **DUG Insight Software** by:
 3. Click the download button.
 4. Select the operating system from the dropdown provided. Your download should begin.
 
-![Docusaurus logo](/img/image_1.png)
+![How to download DUG Insight Software](/img/image_1.png)
