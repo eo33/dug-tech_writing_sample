@@ -5,6 +5,7 @@
 /build
 
 # Generated files
+/pdf
 .docusaurus
 .cache-loader
 
