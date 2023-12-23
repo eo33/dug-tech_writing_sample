@@ -72,8 +72,8 @@ const config = {
             label: "Docs",
           },
           {
-            href: "https://github.com/eo33/dug-tech_writing_sample",
-            label: "GitHub",
+            href: "https://dug.com/the-daily-dug/",
+            label: "Blogs",
             position: "right",
           },
         ],
