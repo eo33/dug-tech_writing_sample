@@ -1,11 +1,12 @@
 ---
 sidebar_position: 1
-slug: /
+slug: /website
 title: Website
 description: How to download DUG Insight Software from the website
 keywords:
-  - download
+  - Download
   - DUG Insight Software
+  - Website
 ---
 
 # Download From The Website
